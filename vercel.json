@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/chat.py": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "GROQ_API_KEY": "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"
+  }
+}
